@@ -36,7 +36,7 @@ $VERSION = "0.2";
 
 $config{away_level} = 0;
 $config{awayreason} = 'Auto-away because client has disconnected from proxy.';
-$config{mode} = 'auto';
+$config{mode} = 'on';
 $config{debug} = 0;
 $config{clientcount} = 0;
 
