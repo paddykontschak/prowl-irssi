@@ -11,9 +11,9 @@ use of Irssi proxy, this was a perfect starting point.
 By default, prowl will only send notifications when you are marked as away.
 This behavior can be toggled using the /prowl command:
 
-	/prowl auto	the default, send push notifications on away
+	/prowl auto	send push notifications on away
 	/prowl off	disable push notifications
-	/prowl on	always send push notifications
+	/prowl on	the default, always send push notifications
 
 Installation
 ------------
